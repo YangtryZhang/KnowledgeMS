@@ -1,4 +1,4 @@
-
+KnowledgeMS is a free, open-source knowledge management system designed to help organizations effectively manage and organize their knowledge. It offers a variety of features, including a user-friendly interface, powerful search capabilities, and the ability to import and export data. KnowledgeMS is ideal for businesses, educational institutions, and other organizations looking to streamline their knowledge management processes.
 # Knowledge
 
 [![Build Status](https://travis-ci.org/support-project/knowledge.svg?branch=master)](https://travis-ci.org/support-project/knowledge)
